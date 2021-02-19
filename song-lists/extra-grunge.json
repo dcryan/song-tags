@@ -1,0 +1,32 @@
+{
+	"tag": "Extra Grunge",
+	"songs": [
+		{ "name": "1979", "artist": "Smashing Pumpkins", "count": 1},
+		{ "name": "Animal", "artist": "Pearl Jam", "count": 1},
+		{ "name": "Better Man", "artist": "Pearl Jam", "count": 1},
+		{ "name": "Burden in My Hand", "artist": "Sound Garden", "count": 1},
+		{ "name": "Corduroy", "artist": "Pearl Jam", "count": 1},
+		{ "name": "Creep", "artist": "Stone Temple pilots", "count": 1},
+		{ "name": "Crown of Thorns", "artist": "Mother Love Bone", "count": 1},
+		{ "name": "Disarm", "artist": "Smashing Pumpkins", "count": 1},
+		{ "name": "Doll Parts", "artist": "Hole", "count": 1},
+		{ "name": "Hunger Strike", "artist": "Temple of the Dog", "count": 1},
+		{ "name": "I Stay Away", "artist": "Alice in Chains", "count": 1},
+		{ "name": "In Bloom", "artist": "Nirvana", "count": 1},
+		{ "name": "Last Kiss", "artist": "Pearl Jam", "count": 1},
+		{ "name": "Lithium", "artist": "Nirvana", "count": 1},
+		{ "name": "Little Things", "artist": "Bush", "count": 1},
+		{ "name": "Machine head", "artist": "Bush", "count": 1},
+		{ "name": "No Excuses", "artist": "Alice in Chains", "count": 1},
+		{ "name": "Once", "artist": "Pearl Jam", "count": 1},
+		{ "name": "Outshined", "artist": "Sound Garden", "count": 1},
+		{ "name": "Pretend that we're dead", "artist": "L7", "count": 1},
+		{ "name": "River of Deceit", "artist": "Nirvana", "count": 1},
+		{ "name": "Seether", "artist": "Veruca Salt", "count": 1},
+		{ "name": "Sex Type Thing", "artist": "Stone Temple Pilots", "count": 1},
+		{ "name": "Them Bones", "artist": "Alice in Chains", "count": 1},
+		{ "name": "Tomorrow", "artist": "Silver Chair", "count": 1},
+		{ "name": "Tonight tonight", "artist": "Smashing Pumpkins", "count": 1},
+		{ "name": "Yellow Ledbetter", "artist": "Pearl Jam", "count": 1}
+	]
+}

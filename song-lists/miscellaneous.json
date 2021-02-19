@@ -1,0 +1,13 @@
+{
+	"tag": "Miscellaneous",
+	"songs": [
+		{ "name": "Amish Paradise", "artist": "Weird Al", "count": 1 },
+		{ "name": "Beauty and the Beast", "artist": "", "count": 1 },
+		{ "name": "Eat It", "artist": "Weird Al", "count": 1 },
+		{ "name": "Fat", "artist": "Weird Al", "count": 0 },
+		{ "name": "Gump", "artist": "Weird Al", "count": 1 },
+		{ "name": "Pretty Fly for a Rabbi", "artist": "Weird Al", "count": 1 },
+		{ "name": "Smells Like Nirvana", "artist": "Weird Al", "count": 1 },
+		{ "name": "White and Nerdy", "artist": "Weird Al", "count": 1 }
+	]
+}
